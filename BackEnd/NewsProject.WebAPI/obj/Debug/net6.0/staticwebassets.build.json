@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hHTS9LIzxlwnFUPhF7GCiiAtDm9sXrDfRRdQjm3MRsU=",
+  "Source": "NewsProject.WebAPI",
+  "BasePath": "_content/NewsProject.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+.change-btn{
+    text-decoration: none;
+    margin-right: 5rem;
+    color: black;
+}
+.del-btn{
+    text-decoration: none;
+    margin-left: 4rem;
+    color: black;
+
+}
+.buton:hover{
+    color: #fab513;
+
+}

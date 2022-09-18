@@ -1,0 +1,8 @@
+.nav-btn{
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+}
+.nav-btn:hover{
+    color: #fab513;
+}
